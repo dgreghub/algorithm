@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=OneDayOneCommit&fontSize=45)	
 
 # Software Basic algorithm<p>
