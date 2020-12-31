@@ -1,4 +1,5 @@
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=OneDayOneCommit&fontSize=45)	
 
 # Software Basic algorithm<p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
@@ -11,3 +12,4 @@
 
 # 알고리즘
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer&fontSize=90)
